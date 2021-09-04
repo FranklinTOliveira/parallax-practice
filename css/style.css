@@ -1,52 +1,31 @@
-.parallax {
-    /* Set a specific height */
-    min-height: 500px;
-  
-    /* Create the parallax scrolling effect */
-    background-attachment: relative;
+.container {
     background-position: center;
-    background-repeat: no-repeat;
     background-size: cover;
-    background-color: gray;
-    height: 25vh;
-    width: 25vw;
-    
-    border-top: 1px solid rgba(255,255,255,.2);
-    }  
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
 
 #container001{
     background-image: url("../img/containerpicture001.jpg");
-    color: #d4bc4f;
-    text-shadow: #FC0 1px 0 30px;    
+    text-shadow: plum 1px 0 10px;
     }
 
 #container002{
     background-image: url("../img/containerpicture002.jpg");
-    color: #d4b13d;
-    text-shadow: #FC0 1px 0 30px;
+    text-shadow: plum 1px 0 10px;
     }
 
 #container003{
     background-image: url("../img/containerpicture003.jpg");
-    color: #FFFDD0;
-    text-shadow: #FC0 1px 0 30px;
+    text-shadow: plum 1px 0 10px;
     }
 
 #container004{
     background-image: url("../img/containerpicture004.jpg");
-    color: #FFFDD0;
-    text-shadow: #FC0 1px 0 30px;
+    text-shadow: plum 1px 0 10px;
     }
 
 #container005{
     background-image: url("../img/containerpicture005.jpg");
-    color: #FFFDD0;
-    text-shadow: #FC0 1px 0 30px;
+    text-shadow: plum 1px 0 10px;
     }
-
-
-
-
-
-
-
