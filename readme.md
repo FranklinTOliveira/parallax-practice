@@ -1,1 +1,1 @@
-<p>The repository bootstrap-boilerplate is practice regarding the construction of a mobile friendly website. The idea is that the sole user, Franklin T. Oliveira, can follow the instructions of the class to go through the motions of building a template for the use of Bootstrap.</p>
+<p>The repository parallax-practice is practice regarding the construction of a website with a parallax effect. The idea is that the user, Franklin T. Oliveira, can follow the instructions of the class to go through the motions of such a project with the aid of a collaborator.</p>
