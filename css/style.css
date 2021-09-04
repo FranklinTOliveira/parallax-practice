@@ -1,0 +1,31 @@
+.container {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+#container001{
+    background-image: url("../img/containerpicture001.jpg");
+    text-shadow: plum 1px 0 10px;
+    }
+
+#container002{
+    background-image: url("../img/containerpicture002.jpg");
+    text-shadow: plum 1px 0 10px;
+    }
+
+#container003{
+    background-image: url("../img/containerpicture003.jpg");
+    text-shadow: plum 1px 0 10px;
+    }
+
+#container004{
+    background-image: url("../img/containerpicture004.jpg");
+    text-shadow: plum 1px 0 10px;
+    }
+
+#container005{
+    background-image: url("../img/containerpicture005.jpg");
+    text-shadow: plum 1px 0 10px;
+    }
